@@ -7,4 +7,3 @@ public class EvenOdd {
         return (num & 1) != num;    // (num & 1) will give number itself if it is odd
     }
 }
-
