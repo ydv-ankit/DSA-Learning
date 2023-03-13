@@ -7,3 +7,6 @@ This repo contains concepts of DSA which helps in problem solving including thei
 ## Concepts included :-
 - Binary Search
 - Bitwise Operators with thier usage
+- Sorting methods
+1. Bubble Sort
+
