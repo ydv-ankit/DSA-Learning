@@ -9,4 +9,6 @@ This repo contains concepts of DSA which helps in problem solving including thei
 - Bitwise Operators with thier usage
 - Sorting methods
   1. Bubble Sort
-
+  2. Insertion Sort
+  3. Selection Sort
+  4. Cyclic Sort
