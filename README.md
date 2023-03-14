@@ -8,5 +8,5 @@ This repo contains concepts of DSA which helps in problem solving including thei
 - Binary Search
 - Bitwise Operators with thier usage
 - Sorting methods
-1. Bubble Sort
+  1. Bubble Sort
 
